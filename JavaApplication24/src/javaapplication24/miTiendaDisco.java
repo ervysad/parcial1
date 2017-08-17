@@ -38,4 +38,8 @@ public class miTiendaDisco {
     public void setNIT(int NIT) {
         this.NIT = NIT;
     }
+    public void AgregarDisco(Disco d)
+    {
+        
+    }
 }

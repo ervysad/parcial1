@@ -57,4 +57,8 @@ public class Disco {
     public void setImagen(String imagen) {
         this.imagen = imagen;
     }   
+    
+    public void AgregarCancion(){
+        this.cancion = cancion;
+    }
 }
